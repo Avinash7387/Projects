@@ -1,1 +1,1 @@
-# Project2
+# SQL CASE STUDY
